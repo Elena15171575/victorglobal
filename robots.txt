@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: /page74342677.html
+Disallow: /victor-dogovor
+Disallow: /page74342679.html
+Disallow: /victor-foto-cookie
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow:
+
+
+Sitemap: http://victorglobal.tilda.ws/sitemap.xml
